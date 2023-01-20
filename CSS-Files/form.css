@@ -186,6 +186,25 @@
   height: 48px;
   cursor: pointer;
   }
+  
+  .form_design_one_submit_btn a{
+    border: 1px solid #DB154D;
+    background: #DB154D;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-family: 'Jost', sans-serif;
+  height: 48px;
+  cursor: pointer;
+  }
+  
   .form_design_one_account_btn{
 padding-top: 15px;
     display: flex;
